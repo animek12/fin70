@@ -196,7 +196,7 @@ await conn.send3ButtonImg(m.chat, await (await fetch('https://telegra.ph/file/34
       contextInfo: { //forwardingScore: 99999, isForwarded: true,  
           externalAdReply: {  showAdAttribution: true, 
               title: 'ʙᴏᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ᴍᴜʟᴛɪ ᴀᴜᴛʜ',  
-              body: '© Zenss', 
+              body: '© Alfin', 
               description: ' ꜰɪɴ ᴍᴅ ♡ ꜰɪɴ ᴏꜰᴄ 䆮', 
               mediaType: 2,  
             thumbnail: await (await fetch('https://telegra.ph/file/00faf159ce0349901eaf3.jpg')).buffer(), 
