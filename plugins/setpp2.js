@@ -1,0 +1,1 @@
+.sf plugins/setpp-panjang.js
