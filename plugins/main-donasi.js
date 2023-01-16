@@ -10,13 +10,13 @@ conn.reply(m.chat, 'Jangan lupa donasi ya pak, biar bot selalu on 24/7 buat kamu
       extendedTextMessage: {
       text: `
 ╭─「 Donasi 」
-│ • Three [62895604670507]
-│ • Gopay  [62895604670507]
-│ • Dana  [62895604670507]
-│ • Qris  [Chat OWNER]
+│ • Tsel [6281332995497]
+│ • Gopay  [6281332995497]
+│ • Dana  [6281332995497]
+│ • Qris  [NOT FOUND]
 ╰────
 ╭─「 *NOTE* 」
-│ > Ingin donasi? Wa.me/62895604670507
+│ > Ingin donasi? Wa.me/6282261065144
 │ _Hasil donasi akan digunakan buat sewa_
 │ _atau beli *RDP/VPS* agar bot bisa jalan_
 │ _24jam tanpa kendala_
