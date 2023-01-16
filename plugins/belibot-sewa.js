@@ -22,7 +22,7 @@ var gh = 'https://github.com/RaaaGH'
 'body':'© ZenssCuyy',
 'thumbnail':await(await fetch('https://telegra.ph/file/340211493a1858b4c9256.jpg')).buffer(),
 'sourceUrl':gh}},
-'caption':'Hi, Silahkan pilih opsi di bawah ini.\n*Payment*\n\n*x* Dana: 0895604670507\n*x* Pulsa: 0895604670507',
+'caption':'Hi, Silahkan pilih opsi di bawah ini.\n*Payment*\n\n*x* Dana: 081332995497\n*x* Pulsa: 081332995497',
 'footer':'©Zenss',
 'buttons':[
 {'buttonId':'.menu','buttonText':{'displayText':'ᴍᴇɴᴜ'},'type':1},
