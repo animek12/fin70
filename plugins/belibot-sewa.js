@@ -19,7 +19,7 @@ var gh = 'https://github.com/RaaaGH'
 'mediaType':2,
 'previewType':'pdf',
 'title':'Follow Github Gua',
-'body':'© ZenssCuyy',
+'body':'© Fin Ofc',
 'thumbnail':await(await fetch('https://telegra.ph/file/340211493a1858b4c9256.jpg')).buffer(),
 'sourceUrl':gh}},
 'caption':'Hi, Silahkan pilih opsi di bawah ini.\n*Payment*\n\n*x* Dana: 081332995497\n*x* Pulsa: 081332995497',
