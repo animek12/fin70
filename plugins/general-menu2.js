@@ -200,7 +200,7 @@ await conn.send3ButtonImg(m.chat, await (await fetch('https://telegra.ph/file/34
               description: ' ꜰɪɴ ᴍᴅ ♡ ꜰɪɴ ᴏꜰᴄ 䆮', 
               mediaType: 2,  
             thumbnail: await (await fetch('https://telegra.ph/file/00faf159ce0349901eaf3.jpg')).buffer(), 
-           mediaUrl: `https://www.youtube.com/@ZenssCuyy` 
+           mediaUrl: `https://linktr.ee/fin222` 
           }  
        }  
       })
