@@ -13,7 +13,7 @@ Agar terap bisa di gunakan dan tidak ada kendala seperti
     let uptime = clockString(_uptime)
     let time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
     let ar = ['list', 'menu']
-    let title = `*© 𝒁𝒆𝒏𝒔𝒔𝑪𝒖𝒚𝒚 䆮*`
+    let title = `*© ᴀʟꜰɪɴ ᴏꜰᴄ 䆮*`
     let tmb = `CLICK HERE ⎙`
     const sections = [ {
 	title: `Aktif Selama ${uptime} || Waktu ${time} WIB`,
