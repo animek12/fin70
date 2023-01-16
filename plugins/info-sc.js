@@ -1,7 +1,7 @@
 let handler = async (m, { conn }) => {
 let ye = `@${m.sender.split`@`[0]}`
 let esce = `
-Hai ${ye} Cie Nyari Esceh🥴 :\n• Cek Aja YouTube https://youtube.com/@ZenssCuyy
+Hai ${ye} Cie Nyari Esceh🥴 :\n• hubungi owner aja kalau mau sc
 `
 conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m) 
 }
