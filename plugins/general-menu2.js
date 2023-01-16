@@ -183,7 +183,7 @@ const ftroli = {
                             itemCount : 9999999999999,
                             status: 1,
                             surface : 1,
-                            message: '© ZenssCuyy',
+                            message: '© ꜰɪɴ ᴏꜰᴄ',
                             orderTitle: 'MENU',
                             thumbnail: await (await fetch('https://telegra.ph/file/80c49e3ab1a4659a415cf.jpg')).buffer(),
                             sellerJid: '0@s.whatsapp.net'
@@ -197,7 +197,7 @@ await conn.send3ButtonImg(m.chat, await (await fetch('https://telegra.ph/file/34
           externalAdReply: {  showAdAttribution: true, 
               title: 'ʙᴏᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ᴍᴜʟᴛɪ ᴀᴜᴛʜ',  
               body: '© Zenss', 
-              description: ' 𝑺𝒉𝒆𝒏𝒉𝒆-𝑴𝑫 ♡ 𝒁𝒆𝒏𝒔𝒔𝑪𝒖𝒚𝒚 䆮', 
+              description: ' ꜰɪɴ ᴍᴅ ♡ ꜰɪɴ ᴏꜰᴄ 䆮', 
               mediaType: 2,  
             thumbnail: await (await fetch('https://telegra.ph/file/00faf159ce0349901eaf3.jpg')).buffer(), 
            mediaUrl: `https://www.youtube.com/@ZenssCuyy` 
