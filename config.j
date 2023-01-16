@@ -6,29 +6,29 @@ untuk lainya saran jangan
 di ubah bre nanti eror]]*/
 
 /*global owner*/
-global.owner = ['62895604670507']  
-global.mods = ['62895604670507'] 
-global.prems = ['62895604670507']
+global.owner = ['6282261065144']  
+global.mods = ['6282261065144'] 
+global.prems = ['6282261065144']
 /*Nomor Owner & payment*/
-global.nameowner = 'Zenss'
-global.numberowner = '62895604670507' 
-global.mail = 'itszenoxy@gmail.com' //enter your email 🗿
-global.dana = '62895604670507'
-global.pulsa = '62895604670507'
-global.gopay = '62895604670507'
+global.nameowner = 'Fin Ofc'
+global.numberowner = '6282261065144' 
+global.mail = 'alfin@gmail.com' //enter your email 🗿
+global.dana = '6281332995497'
+global.pulsa = '6281332995497'
+global.gopay = '6281332995497'
 /*Nama Bot & Grouplink*/
-global.namebot = '𝑺𝒉𝒆𝒏𝒉𝒆 𝑩𝒐𝒕𝒛'
-global.gc = 'https://chat.whatsapp.com/LJsK2qecGOeKCfc97giQFB'
-global.web = 'https://github.com/RaaaGH'
-global.instagram = 'https://instagram.com/inizenscuy'
+global.namebot = 'Fin Md'
+global.gc = 'https://chat.whatsapp.com/BGyvKG4b0Qz2DnGXZTXuAX'
+global.web = 'https://github.com/Raya2399'
+global.instagram = 'https://instagram.com/al_vin.233'
 /*global wm*/
 global.lolkey = 'rey2k22'
 global.zenzkey = 'BagasPrdn'
-global.wm = '© 𝑺𝒉𝒆𝒏𝒉𝒆'
+global.wm = '© Fin Md'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝑺𝒉𝒆𝒏𝒉𝒆 𝑩𝒐𝒕𝒛'
-global.wm3 = '© 𝑺𝒉𝒆𝒏𝒉𝒆-𝑴𝑫'
-global.wm4 = '© 𝑺𝒉𝒆𝒏𝒉𝒆 By ZenssCuyy'
+global.wm2 = '⫹⫺ Fin Md'
+global.wm3 = '© Fin Md'
+global.wm4 = '© Fin Md By Fin Ofc'
 global.fla = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text='
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
@@ -36,7 +36,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\n𝑺𝒉𝒆𝒏𝒉𝒆-𝑴𝑫'
+global.author = 'Bot WhatsApp\n𝗙𝗶𝗻 𝗠𝗱'
 /*Rest api setting*/
 global.APIs = { // API Prefix
   // name: 'https://website'
